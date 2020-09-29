@@ -5,7 +5,7 @@ Demo Videos:
 *Stepper Motor
 https://youtu.be/ypnG79AWDH8
 
-*LCD and Tempreature sensor
+*LCD and temperature sensor
 https://youtu.be/VuAhE4eLCnQ
 
 *ADC and fading LED
